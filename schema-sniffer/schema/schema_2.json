@@ -1,0 +1,40 @@
+{
+    "user": {
+        "id": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "nickname": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "title": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "accountType": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "countryCode": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        },
+        "orientation": {
+            "type": "string",
+            "tag": "",
+            "description": "",
+            "required": false
+        }
+    }
+}
